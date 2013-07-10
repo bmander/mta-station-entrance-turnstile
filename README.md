@@ -9,6 +9,9 @@ Concepts:
 * Station - A collection of platforms.
 * Entrance - The interface between non-MTA and MTA property. Typically a door, though not always.
 * Vestibule - MTA property one doesn't need to pay to reach.
+** AKA "fare control area"
 * Turnstile - The only way to get into a station. Typically between a vestibule and a station.
+** Control Area - AKA "Booth", "fare control area", a vestibule.
+** Unit - AKA "Remote", "Remote Unit". Up to 4 turnstiles.
 * Corridor - Passageway between stations or vestibules.
 * Complex - A big adjacent glom of stations and vestibules.
