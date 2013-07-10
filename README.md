@@ -50,7 +50,7 @@ Project Strategy
 
 Import patchwork of data into three geojson datasets.
 
-### Identify location of booths
+### Identify location of control areas
 
 Could involve a lot of guesswork, and groundwork.
 
