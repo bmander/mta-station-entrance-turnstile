@@ -13,7 +13,7 @@ features = []
 for row in rd:
 	geometry = {"type":"Point","coordinates":(row[hdr["Longitude"]],row[hdr["Latitude"]])}
 
-	properties={}
+	properties={'marker-color':"#E3BFCB"}
 	for i,field in enumerate(header_row):
 		if field=="Latitude" or field=="Longitude":
 			continue
