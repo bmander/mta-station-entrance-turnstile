@@ -42,3 +42,22 @@ Data sources
   In reality each entrance is adjacent to one or more control areas, which can take different amounts of time to reach
   from the entrance. In turn each control area is adjacent to one or more platforms at different removes, each of which 
   is identified with a single station. The relationship between entrance and station is therefore sometimes a bit fuzzy.
+
+Project Strategy
+----------------
+
+### Import data
+
+Import patchwork of data into three geojson datasets.
+
+### Identify location of booths
+
+Could involve a lot of guesswork, and groundwork.
+
+### Relate
+
+Relate entrances to control areas, and control areas to stations.
+
+### Compile 
+
+Compile geojson-normalized source data sets and join tables into a geojson file showing unconnected entrances and control areas.
