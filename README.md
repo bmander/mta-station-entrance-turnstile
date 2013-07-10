@@ -1,7 +1,7 @@
 mta-station-entrance-turnstile
 ==============================
 
-A project to relate MTA subway station, entrance, and turnstile IDs.
+A project to relate MTA subway station, entrance, and turnstile IDs, for applications in transporation research and data visualiation.
 
 Concepts
 --------
