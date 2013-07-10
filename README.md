@@ -15,3 +15,9 @@ Concepts:
 ** Unit - AKA "Remote", "Remote Unit". Up to 4 turnstiles.
 * Corridor - Passageway between stations or vestibules.
 * Complex - A big adjacent glom of stations and vestibules.
+
+Data sources:
+
+* Stations - http://www.mta.info/developers/data/nyct/subway/google_transit.zip
+* Turnstiles - http://www.mta.info/developers/resources/nyct/turnstile/Remote-Booth-Station.xls
+* Entrances - http://www.mta.info/developers/data/nyct/subway/StationEntrances.csv
