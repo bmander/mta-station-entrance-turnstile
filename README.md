@@ -50,6 +50,9 @@ Project Strategy
 
 Import patchwork of data into three geojson datasets.
 
+* get_entrances.py - import entrance data to "entrances.geojson"
+* get_stations.py - import station data to "stations.geojson"
+
 ### Identify location of control areas
 
 Could involve a lot of guesswork, and groundwork.
